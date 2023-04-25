@@ -1,0 +1,8 @@
+Model Information:
+* title:	Modern Store
+* source:	https://sketchfab.com/3d-models/modern-store-7990dc0dd1664fdc9571bff572e411f7
+* author:	Elvair Lima (https://sketchfab.com/elvair)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: b3d488e252b36454ca8c568dcdfabcd6
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -2386600507567273067
+    second: main_door_left|Interior_door.001Action
+  - first:
+      74: -4468702271393805632
+    second: main_door_left|Interior_door.002Action
+  - first:
+      74: 3175535913000137208
+    second: main_door_left|Interior_door.003Action
+  - first:
+      74: -7406637512620246784
+    second: main_door_left|main_door_rightAction
+  - first:
+      74: -2498561923457493732
+    second: Interior_door.002|Interior_door.001Action
+  - first:
+      74: 9105835487943237718
+    second: Interior_door.002|Interior_door.002Action
+  - first:
+      74: -7406435134183169484
+    second: Interior_door.002|Interior_door.003Action
+  - first:
+      74: -1519666233274044133
+    second: Interior_door.002|main_door_rightAction
+  - first:
+      74: -2823153887924755263
+    second: Interior_door.001|Interior_door.001Action
+  - first:
+      74: 6410581916535788046
+    second: Interior_door.001|Interior_door.002Action
+  - first:
+      74: 841661869271835716
+    second: Interior_door.001|Interior_door.003Action
+  - first:
+      74: -8936817824743269885
+    second: Interior_door.001|main_door_rightAction
+  - first:
+      74: 3742698419805103236
+    second: Interior_door.003|Interior_door.001Action
+  - first:
+      74: 2409682036905517963
+    second: Interior_door.003|Interior_door.002Action
+  - first:
+      74: -7617924698386569868
+    second: Interior_door.003|Interior_door.003Action
+  - first:
+      74: 6901641125672290345
+    second: Interior_door.003|main_door_rightAction
+  - first:
+      74: 6826231897776279657
+    second: main_door_right|Interior_door.001Action
+  - first:
+      74: 6478228106236634542
+    second: main_door_right|Interior_door.002Action
+  - first:
+      74: -6508075008179561015
+    second: main_door_right|Interior_door.003Action
+  - first:
+      74: -8664892818503602947
+    second: main_door_right|main_door_rightAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
